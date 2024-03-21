@@ -19,11 +19,11 @@ body{
 
 }
 
-.box > a{
+.btn{
+    color: black;
     display: flex;
     justify-content: center;
     background: rgb(216, 142, 154);
-
 }
 
 .box{
