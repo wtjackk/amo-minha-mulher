@@ -10,21 +10,25 @@ body{
 }
 
 .main{
+    display: flex;
     width: 100vw;
     height:100vh ;
     background: pink;
-}
-
-.box{
-    flex-direction: column;
-    display: flex;
+    justify-content: center;
     align-items: center;
-    border-radius: 100px;
-    
+
 }
 
 .box > a{
-    background: rgb(212, 140, 152);
+    display: flex;
+    justify-content: center;
+    background: rgb(216, 142, 154);
 
+}
+
+.box{
+    background-color: bisque;
+    border-radius: 10px;
+    
 }
 
