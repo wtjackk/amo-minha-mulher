@@ -1,1 +1,0 @@
-# amo essa mulher pqp
